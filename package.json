@@ -1,0 +1,8 @@
+{
+  "name": "jquery-scrollintoview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.scrollintoview.min.js",
+  "author": "litera/jquery-scrollintoview",
+  "license": "ISC"
+}
